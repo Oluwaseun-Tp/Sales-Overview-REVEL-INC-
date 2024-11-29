@@ -1,5 +1,5 @@
 # Sales-Overview-REVEL-INC-
-First introduction into Power 151, can't help but notice the friendly and colorful
+First introduction into Power Bi, can't help but notice the friendly and colorful
 interface which feel very welcoming and quiet easy to work around. Importing an
 existing Excel worksheet looking into sales over view for the dataset visualization.
 Using Data analysis Expression (DAX) for custom calculations and measurement.
